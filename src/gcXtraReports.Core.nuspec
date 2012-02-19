@@ -14,7 +14,6 @@
     <tags>xtrareports</tags>
   </metadata>
   <files>
-    <file src="src\XtraSubreport.Core\bin\Release\*.dll" target="lib\net40" />
-	<file src="src\XtraSubreport.Core\bin\Release\*.dll" target="lib\net35" />
+    <file src="src\gcXtraReports.Core\bin\Release\*.dll" target="lib\net40" />
   </files>
 </package>

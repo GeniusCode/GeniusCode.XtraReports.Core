@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeniusCode.XtraReports.Core", "GeniusCode.XtraReports.Core.csproj", "{316A7AB5-8178-4F21-BAF4-C4D470594477}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcXtraReports.Core", "gcXtraReports.Core.csproj", "{316A7AB5-8178-4F21-BAF4-C4D470594477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
