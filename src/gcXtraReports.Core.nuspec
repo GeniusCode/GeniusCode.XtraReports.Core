@@ -12,6 +12,9 @@
 	</description>
     <summary>Core library containing interfaces for plugins</summary>
     <tags>xtrareports</tags>
+	<dependencies>
+		<dependency id="gxExtensions" />
+    </dependencies>
   </metadata>
   <files>
     <file src="src\gcXtraReports.Core\bin\Release\*.dll" target="lib\net40" />
