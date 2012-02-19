@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GeniusCode.XtraReports</RootNamespace>
     <AssemblyName>GeniusCode.XtraReports.Core</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -52,6 +52,7 @@
     <Compile Include="IReportDatasourceFactory.cs" />
     <Compile Include="IReportDatasourceMetadata.cs" />
     <Compile Include="IReportControlAction.cs" />
+    <Compile Include="IReportDatasourceMetadataWithTraversal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="IReportControlActionFactory.cs" />
   </ItemGroup>
