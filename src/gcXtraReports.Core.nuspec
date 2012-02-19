@@ -13,7 +13,7 @@
     <summary>Core library containing interfaces for plugins</summary>
     <tags>xtrareports</tags>
 	<dependencies>
-		<dependency id="gxExtensions" />
+		<dependency id="gcExtensions" />
     </dependencies>
   </metadata>
   <files>
