@@ -8,6 +8,7 @@ namespace GeniusCode.XtraReports
     public interface IReportFactory
     {
         XtraReport GetReportByKey(string key);
+        byte[] GetSerializedReportByKey(string key);
         IEnumerable<string> GetAvailableReportKeys();
     }
 }
