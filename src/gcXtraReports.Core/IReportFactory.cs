@@ -5,5 +5,6 @@ namespace GeniusCode.XtraReports
     public interface IReportFactory
     {
         XtraReport GetReportByKey(string key);
+        IEnumerable<string> GetAvailableReportKeys();
     }
 }
